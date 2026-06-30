@@ -44,15 +44,15 @@ FROM table_month
 /*
 TASK 5 - REVENUE TREND ANALYSIS
 
-1. Monthly revenue fluctuated throughout 2017-2018, with February 2017 recording the lowest revenue level.
+1. January 2017 recorded the lowest monthly revenue, while revenue generally increased over the analysis period.
 
-2. Revenue was generally higher during the second half of the year, which may indicate seasonal demand patterns.
+2. Revenue showed an overall upward trend throughout the two-year period, with several notable peaks in the second half of each year.
 
 3. The largest month-over-month revenue increases occurred in August, October, and December, indicating periods of accelerated transaction growth.
 
 4. December 2018 generated the highest monthly revenue, highlighting strong year-end customer spending activity.
 
-5. Cumulative revenue grew consistently over time, reflecting sustained business expansion despite short-term volatility.
+5. Cumulative revenue increased consistently throughout 2017-2018, reflecting sustained business expansion despite short-term fluctuations.
 
-6. Overall revenue trends indicate positive business growth over the 2017-2018 period.
+6. Overall revenue trends indicate positive business growth over the two-year period.
 */
